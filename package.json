@@ -1,0 +1,25 @@
+{
+	"name": "food-festival",
+	"version": "1.0.0",
+	"description": "repo for the foodies",
+	"main": "index.js",
+	"scripts": {
+		"webapack": "webpack --watch",
+		"build": "webpack"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Bullbotbam/food-festival.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Bullbotbam/food-festival/issues"
+	},
+	"homepage": "https://github.com/Bullbotbam/food-festival#readme",
+	"devDependencies": {
+		"webpack": "^5.52.0",
+		"webpack-cli": "^4.8.0"
+	}
+}
