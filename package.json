@@ -26,7 +26,6 @@
 		"fsevents": "^2.3.2",
 		"image-webpack-loader": "^7.0.1",
 		"jquery": "^3.4.1",
-		"popper.js": "^1.16.0",
 		"use-url-search-params-hooks": "^1.0.3"
 	},
 	"repository": {
